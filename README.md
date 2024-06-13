@@ -26,3 +26,23 @@ Starmind is an online platform designed to facilitate question and answer intera
 
 1. Go to http://localhost/Starmind/loginhome.php in your browser.
 2. You should see the login home page of your project.
+## Screenshots
+
+
+### LogIn Page
+![LogIn Page](Screenshots/Picture2.png)
+
+### Sign Up Page
+![Sign Up Page](Screenshots/Picture1.png)
+
+### Title Page
+![Title Page](Screenshots/tPicture6.png)
+
+### Profile Page
+![DataBase](Screenshots/Picture3.png)
+
+### Questions Page
+![Questions Page](Screenshots/Picture4.png)
+
+### DataBase
+![DataBase](Screenshots/Picture5.png)
