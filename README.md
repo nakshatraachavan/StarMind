@@ -28,21 +28,23 @@ Starmind is an online platform designed to facilitate question and answer intera
 2. You should see the login home page of your project.
 ## Screenshots
 
-
+### Home Page
+![Title Page](Screenshots/home.png)
 ### LogIn Page
-![LogIn Page](Screenshots/Picture2.png)
+![LogIn Page](Readme-screenshots/login.png)
 
 ### Sign Up Page
-![Sign Up Page](Screenshots/Picture1.png)
+![Sign Up Page](Readme-screenshots/signup.png)
 
-### Title Page
-![Title Page](Screenshots/tPicture6.png)
+### About Us Page
+![About Us](Readme-screenshots/aboutus.png)
+!(Readme-screenshots/aboutus(2).png)
 
 ### Profile Page
-![DataBase](Screenshots/Picture3.png)
+![Profile Page](Readme-screenshots/profile.png)
 
 ### Questions Page
-![Questions Page](Screenshots/Picture4.png)
+![Questions Page](Readme-screenshots/questionslist.png)
 
-### DataBase
-![DataBase](Screenshots/Picture5.png)
+### Answers
+![Answers](Screenshots/answers.png)
