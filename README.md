@@ -46,5 +46,4 @@ Starmind is an online platform designed to facilitate question and answer intera
 ### Questions Page
 ![Questions Page](Readme-screenshots/questionslist.png)
 
-### Answers
-![Answers](Screenshots/answers.png)
+
